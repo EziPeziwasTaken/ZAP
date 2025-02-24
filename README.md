@@ -15,6 +15,13 @@
 - Plagiátorství
 - Citaní aparát
 
+## Struktura článku:
+- Introduction      *Teoretická*
+- Methods             *Část*
+- Results           *Praktická*
+- Discussion          *Část*
+- Conclusion
+
 ## Autorký plural:
 - Použití první osoby množného čísla (Zastáváme názor)
 
@@ -39,4 +46,26 @@
 
 ## Zdroje:
 - Primární - co analyzujeme; Od původního zdroje
-- Sekundární - Pokedmíví o textu co analyzujeme; Převzatí z jiných zdrojů
+- Sekundární - Pojednává o textu co analyzujeme; Převzatí z jiných zdrojů
+- Minimálně 15 - 20
+
+## Google Scholar
+- Vypíše PDFka, Časopisy namísto webových stránek
+- Metacrawler
+- Zdroje z doporučené literatury od učitelů
+
+## Abstrakt (Resumé, Inotace, Výtah)
+- Obsah v malém prostoru
+- Zdůrazňuje hlavní přinos pro další čtenáře
+- Redukovaný text
+- Na začátku, konci nebo samostatně
+
+## Evidenční karta / Rešeršní karta (cv2 - bez DOI)
+- Název:
+- Autor:
+- Citace: (číslo, ISSN, DOI)
+
+- Výpisky (Paraphrase):
+    - Vlastními slovy
+    - V bodech
+- Pracovní poznámky:
