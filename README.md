@@ -1,5 +1,13 @@
 # ZAP (Základy akademického psaní)
 
+*3.3. Není ZAP*
+
+## Povinnosti pro Zápočet
+- min. 10 úkolů
+- Seminární práce
+- Prezetace
+- 80% Prezence
+
 ## Náplň předmětu ZAP:
 - Komunikace na akademické půdě
 - Citace
@@ -23,3 +31,12 @@
     1. Co?
 	2. Kde najdu zadání?
 	3. Co je hodnoceno?
+
+## Rešerše:
+- Seznam zdrojů
+- Výpisky
+- Textové zpracování výpisků
+
+## Zdroje:
+- Primární - co analyzujeme; Od původního zdroje
+- Sekundární - Pokedmíví o textu co analyzujeme; Převzatí z jiných zdrojů
